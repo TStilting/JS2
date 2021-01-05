@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="450103a7-d342-4fd6-979c-2124d8126bee" name="Default Changelist" comment="H3 aangemaakt">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H3/JS6.js" beforeDir="false" afterPath="$PROJECT_DIR$/H3/JS6.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/H3/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="450103a7-d342-4fd6-979c-2124d8126bee" name="Default Changelist" comment="H3 gedaan en klaar" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +55,7 @@
       <workItem from="1608281383930" duration="4000" />
       <workItem from="1608282093402" duration="2000" />
       <workItem from="1609835396770" duration="18000" />
-      <workItem from="1609835447441" duration="6317000" />
+      <workItem from="1609835447441" duration="6353000" />
     </task>
     <task id="LOCAL-00001" summary="project aangemaakt">
       <created>1607946434842</created>
@@ -75,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609836424882</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="H3 gedaan en klaar">
+      <created>1609842435168</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609842435168</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +98,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="project aangemaakt" />
     <MESSAGE value="H3 aangemaakt" />
-    <option name="LAST_COMMIT_MESSAGE" value="H3 aangemaakt" />
+    <MESSAGE value="H3 gedaan en klaar" />
+    <option name="LAST_COMMIT_MESSAGE" value="H3 gedaan en klaar" />
   </component>
 </project>
