@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="450103a7-d342-4fd6-979c-2124d8126bee" name="Default Changelist" comment="H3 gedaan en klaar" />
+    <list default="true" id="450103a7-d342-4fd6-979c-2124d8126bee" name="Default Changelist" comment="H3 gedaan en klaar nu met fotos">
+      <change afterPath="$PROJECT_DIR$/H4/Foto1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H4/Foto2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H4/Foto3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H4/JS7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H4/JS8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H4/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,12 +32,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lPdyoM00tiMrptg5YJOuH5neuI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -56,6 +69,8 @@
       <workItem from="1608282093402" duration="2000" />
       <workItem from="1609835396770" duration="18000" />
       <workItem from="1609835447441" duration="6353000" />
+      <workItem from="1609842513709" duration="54000" />
+      <workItem from="1609922579688" duration="4723000" />
     </task>
     <task id="LOCAL-00001" summary="project aangemaakt">
       <created>1607946434842</created>
@@ -78,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609842435168</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="H3 gedaan en klaar nu met fotos">
+      <created>1609842554941</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609842554941</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,11 +116,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="project aangemaakt" />
     <MESSAGE value="H3 aangemaakt" />
     <MESSAGE value="H3 gedaan en klaar" />
-    <option name="LAST_COMMIT_MESSAGE" value="H3 gedaan en klaar" />
+    <MESSAGE value="H3 gedaan en klaar nu met fotos" />
+    <option name="LAST_COMMIT_MESSAGE" value="H3 gedaan en klaar nu met fotos" />
   </component>
 </project>
