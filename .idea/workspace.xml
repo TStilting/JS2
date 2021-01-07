@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="450103a7-d342-4fd6-979c-2124d8126bee" name="Default Changelist" comment="H3 gedaan en klaar nu met fotos">
-      <change afterPath="$PROJECT_DIR$/H4/Foto1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H4/Foto2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H4/Foto3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H4/JS7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H4/JS8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H4/index2.html" afterDir="false" />
+    <list default="true" id="450103a7-d342-4fd6-979c-2124d8126bee" name="Default Changelist" comment="H4 aan gewerkt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H4/JS8.js" beforeDir="false" afterPath="$PROJECT_DIR$/H4/JS8.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H4/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/H4/index2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +64,8 @@
       <workItem from="1609835396770" duration="18000" />
       <workItem from="1609835447441" duration="6353000" />
       <workItem from="1609842513709" duration="54000" />
-      <workItem from="1609922579688" duration="4723000" />
+      <workItem from="1609922579688" duration="4761000" />
+      <workItem from="1610008913313" duration="5506000" />
     </task>
     <task id="LOCAL-00001" summary="project aangemaakt">
       <created>1607946434842</created>
@@ -100,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609842554941</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="H4 aan gewerkt">
+      <created>1609928239532</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609928239532</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +126,7 @@
     <MESSAGE value="H3 aangemaakt" />
     <MESSAGE value="H3 gedaan en klaar" />
     <MESSAGE value="H3 gedaan en klaar nu met fotos" />
-    <option name="LAST_COMMIT_MESSAGE" value="H3 gedaan en klaar nu met fotos" />
+    <MESSAGE value="H4 aan gewerkt" />
+    <option name="LAST_COMMIT_MESSAGE" value="H4 aan gewerkt" />
   </component>
 </project>
