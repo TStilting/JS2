@@ -1,10 +1,10 @@
 var tellir = 1;
 var placeholdir = document.getElementById("placeholdir");
 
-placeholder.style.backgroundImage = "url('Foti1.jpg')";
+placeholdir.style.backgroundImage = "url('Foti1.jpg')";
 
-placeholder.addEventListener("click" ,function() {
-    placeholder.style.backgroundImage = "url('Foti" + rotatien() + ".jpg')";
+placeholdir.addEventListener("click" ,function() {
+    placeholdir.style.backgroundImage = "url('Foti" + rotatien() + ".jpg')";
 })
 
 function rotatien() {
