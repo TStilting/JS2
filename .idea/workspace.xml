@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="450103a7-d342-4fd6-979c-2124d8126bee" name="Default Changelist" comment="H4 klaar">
-      <change beforePath="$PROJECT_DIR$/H4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/H4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H4/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/H4/index2.html" afterDir="false" />
+    <list default="true" id="450103a7-d342-4fd6-979c-2124d8126bee" name="Default Changelist" comment="H4 klaar met de juiste link namen">
+      <change afterPath="$PROJECT_DIR$/H5/JS10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +70,9 @@
       <workItem from="1610015291134" duration="1206000" />
       <workItem from="1610021430864" duration="1593000" />
       <workItem from="1610095674083" duration="1757000" />
-      <workItem from="1610097442077" duration="1352000" />
+      <workItem from="1610097442077" duration="1389000" />
+      <workItem from="1610099432666" duration="1476000" />
+      <workItem from="1610354774433" duration="3854000" />
     </task>
     <task id="LOCAL-00001" summary="project aangemaakt">
       <created>1607946434842</created>
@@ -133,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610099210326</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="H4 klaar met de juiste link namen">
+      <created>1610099324868</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1610099324868</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +173,7 @@
     <MESSAGE value="H4 nog meer verder gewerkt" />
     <MESSAGE value="fotos toegevoegd" />
     <MESSAGE value="H4 klaar" />
-    <option name="LAST_COMMIT_MESSAGE" value="H4 klaar" />
+    <MESSAGE value="H4 klaar met de juiste link namen" />
+    <option name="LAST_COMMIT_MESSAGE" value="H4 klaar met de juiste link namen" />
   </component>
 </project>
