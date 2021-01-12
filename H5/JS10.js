@@ -12,7 +12,7 @@ function createFotoholder () {
 }
 
 function getImage() {
-    image = document.getElementById("fotoo");
+    image = document.getElementsByClassName("fotoo");
     for (var i = 0; i < 9; i++) {
         imagee = document.createElement("img");
         imagee.src = "Turtle" + (i+1) + ".jpg";

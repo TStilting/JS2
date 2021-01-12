@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="450103a7-d342-4fd6-979c-2124d8126bee" name="Default Changelist" comment="aan H5 gewerkt">
+    <list default="true" id="450103a7-d342-4fd6-979c-2124d8126bee" name="Default Changelist" comment="fotos aan H5 toegevoegd">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/H5/JS10.js" beforeDir="false" afterPath="$PROJECT_DIR$/H5/JS10.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/H5/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +72,9 @@
       <workItem from="1610099432666" duration="1476000" />
       <workItem from="1610354774433" duration="4765000" />
       <workItem from="1610364793042" duration="2306000" />
-      <workItem from="1610440840889" duration="2650000" />
+      <workItem from="1610440840889" duration="4247000" />
+      <workItem from="1610445124100" duration="1721000" />
+      <workItem from="1610453229004" duration="1534000" />
     </task>
     <task id="LOCAL-00001" summary="project aangemaakt">
       <created>1607946434842</created>
@@ -152,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610359874214</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="fotos aan H5 toegevoegd">
+      <created>1610443766128</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1610443766128</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +191,7 @@
     <MESSAGE value="H4 klaar" />
     <MESSAGE value="H4 klaar met de juiste link namen" />
     <MESSAGE value="aan H5 gewerkt" />
-    <option name="LAST_COMMIT_MESSAGE" value="aan H5 gewerkt" />
+    <MESSAGE value="fotos aan H5 toegevoegd" />
+    <option name="LAST_COMMIT_MESSAGE" value="fotos aan H5 toegevoegd" />
   </component>
 </project>
