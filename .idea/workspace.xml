@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="450103a7-d342-4fd6-979c-2124d8126bee" name="Default Changelist" comment="fotos aan H5 toegevoegd die nu ook werken">
+    <list default="true" id="450103a7-d342-4fd6-979c-2124d8126bee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/H5/Ster.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H5/JS10.js" beforeDir="false" afterPath="$PROJECT_DIR$/H5/JS10.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/H5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/H5/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +76,8 @@
       <workItem from="1610364793042" duration="2306000" />
       <workItem from="1610440840889" duration="4247000" />
       <workItem from="1610445124100" duration="1721000" />
-      <workItem from="1610453229004" duration="1655000" />
+      <workItem from="1610453229004" duration="2050000" />
+      <workItem from="1610527577820" duration="1733000" />
     </task>
     <task id="LOCAL-00001" summary="project aangemaakt">
       <created>1607946434842</created>
@@ -166,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610454780904</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="border wat breeder gemaakt">
+      <created>1610454904726</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1610454904726</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +210,7 @@
     <MESSAGE value="aan H5 gewerkt" />
     <MESSAGE value="fotos aan H5 toegevoegd" />
     <MESSAGE value="fotos aan H5 toegevoegd die nu ook werken" />
-    <option name="LAST_COMMIT_MESSAGE" value="fotos aan H5 toegevoegd die nu ook werken" />
+    <MESSAGE value="border wat breeder gemaakt" />
+    <option name="LAST_COMMIT_MESSAGE" value="border wat breeder gemaakt" />
   </component>
 </project>
