@@ -32,5 +32,5 @@ function getImage() {
 
 function addSter(id) {
     fav = document.getElementById("fav" + id);
-    fav.style.backgroundImage ("Ster.png");
+    fav.style.backgroundImage = "url('Ster.png')";
 }
