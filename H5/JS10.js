@@ -31,6 +31,10 @@ function getImage() {
 
 
 function addSter(id) {
+    zter = document.getElementsByClassName("ster");
+    for (var i = 0; i < zter.length; i++) {
+        zter[i].style.backgroundImage = "none";
+    }
     fav = document.getElementById("fav" + id);
     fav.style.backgroundImage = "url('Ster.png')";
 }

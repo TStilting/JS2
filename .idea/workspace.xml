@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="450103a7-d342-4fd6-979c-2124d8126bee" name="Default Changelist" comment="meer fotos toegevoegd">
+    <list default="true" id="450103a7-d342-4fd6-979c-2124d8126bee" name="Default Changelist" comment="sterren toegevoegd">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/H5/JS10.js" beforeDir="false" afterPath="$PROJECT_DIR$/H5/JS10.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/H5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/H5/index.html" afterDir="false" />
@@ -76,7 +76,9 @@
       <workItem from="1610440840889" duration="4247000" />
       <workItem from="1610445124100" duration="1721000" />
       <workItem from="1610453229004" duration="2050000" />
-      <workItem from="1610527577820" duration="3398000" />
+      <workItem from="1610527577820" duration="4823000" />
+      <workItem from="1610539586261" duration="599000" />
+      <workItem from="1610701743182" duration="2009000" />
     </task>
     <task id="LOCAL-00001" summary="project aangemaakt">
       <created>1607946434842</created>
@@ -183,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610529430351</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="sterren toegevoegd">
+      <created>1610531397520</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1610531397520</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,6 +227,7 @@
     <MESSAGE value="fotos aan H5 toegevoegd die nu ook werken" />
     <MESSAGE value="border wat breeder gemaakt" />
     <MESSAGE value="meer fotos toegevoegd" />
-    <option name="LAST_COMMIT_MESSAGE" value="meer fotos toegevoegd" />
+    <MESSAGE value="sterren toegevoegd" />
+    <option name="LAST_COMMIT_MESSAGE" value="sterren toegevoegd" />
   </component>
 </project>
